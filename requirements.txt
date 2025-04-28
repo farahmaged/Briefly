@@ -1,0 +1,5 @@
+nltk==3.9.1
+scikit-learn==1.6.1
+spotipy==2.25.1
+streamlit==1.44.1
+transformers==4.51.3
